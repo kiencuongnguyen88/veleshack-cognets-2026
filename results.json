@@ -1,0 +1,13 @@
+{
+  "project": "Swarm Sentinel",
+  "team_name": "swarm-sentinel",
+  "challenge": "VelesHack 2026 Challenge 4 COGNETS",
+  "candidate_sha256": "353af90f6ac740df224ccc46bb8d2ee65a0fec0387dc997dc5894cf3dcf084d8",
+  "paired_runs": 12,
+  "vs_shipped_template": {"positive": 12, "mean_delta": 3.43225, "median_delta": 3.791, "worst_delta": 1.2553},
+  "vs_strongest_builtin": {"positive": 12, "mean_delta": 2.8738583333333336, "median_delta": 3.21355, "worst_delta": 0.2668},
+  "strategy_fallback_count": 0,
+  "compileall_rc": 0,
+  "organizer_conformance_rc": 0,
+  "evidence_caveat": "NOT_PROVEN_UNLESS_LOCAL_SCAN_CONTAINS_COMPLETE_R017_LEDGER"
+}
